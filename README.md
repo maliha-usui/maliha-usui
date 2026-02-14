@@ -3,7 +3,6 @@
 🎓 **PhD in Informatics** (Shizuoka University, 2024)  
 🔬 **Research Focus**: Multimodal ML • Vision-Language Models • Explainable AI  
 📍 **Currently**: Product Development Engineer at Pi Photonics, Japan  
-🌏 **Languages**: English (Fluent) • Bengali (Native) • Japanese (Simple Conversation)
 
 ## 🚀 Recent Research
 
