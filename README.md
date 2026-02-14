@@ -37,7 +37,7 @@ Currently developing AI systems for industrial applications:
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/malihabintemamun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/malihabintemamun](https://www.linkedin.com/public-profile/settings))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bintemaliha19@gmail.com)
 
 ---
