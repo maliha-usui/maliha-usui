@@ -1,7 +1,7 @@
 # Hi, I'm Maliha 👋
 
 🎓 **PhD in Informatics** (Shizuoka University, 2024)  
-🔬 **Research Focus**: Multimodal ML • Vision-Language Models • Explainable AI  
+🔬 **Research Focus**: NLP • Multimodal ML • Vision-Language Models • Explainable AI  
 📍 **Currently**: Product Development Engineer at Pi Photonics, Japan  
 
 ## 🚀 Recent Research
@@ -13,7 +13,7 @@
   ## 🔧 Industry Experience
 
 Currently developing AI systems for industrial applications:
-- **Edge AI for Safety Monitoring**: OAK-D camera-based crane detection on embedded platforms
+- **Edge AI for Safety Monitoring**: Camera-based crane detection/ wave detection/ human detection on embedded platforms
 - **Real-time Video Analysis**: Feature extraction and object detection on STM32 microcontrollers
 - **Firmware Development**: Implementing ML inference pipelines on resource-constrained devices
 
